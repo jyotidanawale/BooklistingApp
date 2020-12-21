@@ -1,0 +1,6 @@
+module Pods_BookList_BookListTests {
+  umbrella header "Pods-BookList-BookListTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
